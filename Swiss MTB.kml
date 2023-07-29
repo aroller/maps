@@ -5,6 +5,8 @@
 	<open>1</open>
 	<Link>
 		<href>https://raw.githubusercontent.com/aroller/maps/main/data/swiss-mtb.kml</href>
+		<refreshMode>onInterval</refreshMode>
+		<refreshInterval>7200</refreshInterval>
 	</Link>
 </NetworkLink>
 </kml>
